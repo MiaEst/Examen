@@ -1,0 +1,18 @@
+.seccion1{
+    background-color: rgb(254, 253, 250);
+    font-size: 40px;
+}
+.contenido{
+background-color: rgb(254, 253, 250);
+
+
+}
+.img{
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-start;
+}
+.barra{
+  
+}
+
